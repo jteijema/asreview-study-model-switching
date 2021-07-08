@@ -1,0 +1,46 @@
+{
+	"description": "A repository of code accompanying a study into text classification model switching. Deep learning is often used in text classification tasks for its efficiency and proficiency in modelling nonlinear processes. However, using this type of machine learning takes more time and processing power than using shallow learning algorithms. The scripts in this pubication makes it possible to invetigate if a combination of shallow and deep learning techniques can be used in increasing the classification performance for automated systematic review software. To find these situations, simulations were run on a prepared dataset using different classifiers, switching from shallow to deep networks. This GitHub repository hosts information and code for research on model switching during simulations and active classification. It is accompanied by the asreview-plugin-model-switcher plugin, for software called ASReview.",
+	"title": "Code repository for: 'A comparison of performance between optimal neural networks and classical algorithms in active learning based text classification'",
+	"creators": [{
+			"name": "Teijema, Jelle",
+			"affiliation": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-9282-4311"
+		}
+	],
+
+	"contributors": [
+		{
+			"name": "Hofstee, Laura",
+			"affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-9638-7657",
+			"type": "Supervisor" 
+			
+		},
+		{
+			"name": "Bagheri, Ayoub",
+			"affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-6366-2173",
+			"type": "Supervisor" 
+		},
+		{
+			"name": "Van de Schoot, Rens",
+			"affiliation": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-7736-2091",
+			"type": "ProjectLeader" 
+		}
+	],
+	"keywords": [
+		"ASReview",
+		"active learning",
+		"machine learning",
+		"python"
+	],
+	"related_identifiers": [
+		{
+			"relation": "isSupplementTo",
+		 	"identifier": "https://doi.org/10.5281/zenodo.3345592"
+		}
+	],
+	"license": "MIT",
+	"upload_type": "software"
+}
