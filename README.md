@@ -3,6 +3,8 @@ Deep learning is often used in text classification tasks for its efficiency and 
 
 This GitHub repository hosts information and code for research on model switching during simulations and active classification. [asreview-plugin-model-switcher](https://github.com/JTeijema/asreview-plugin-model-switcher) contains a plugin, for software called [ASReview](https://github.com/asreview) ![logo](https://raw.githubusercontent.com/asreview/asreview-artwork/e2e6e5ea58a22077b116b9c3d2a15bc3fea585c7/SVGicons/IconELAS/ELASeyes24px24px.svg "ASReview"). 
 
+The DOI for this repository can be found at https://doi.org/10.5281/zenodo.5082962.
+
 
 ## Requirements
 
