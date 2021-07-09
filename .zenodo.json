@@ -45,6 +45,18 @@
 		{
 			"relation": "isSupplementTo",
 		 	"identifier": "https://doi.org/10.5281/zenodo.3345592"
+		},
+		{
+			"relation": "requires",
+		 	"identifier": "http://doi.org/10.5281/zenodo.5084887"
+		},
+		{
+			"relation": "requires",
+		 	"identifier": "http://doi.org/10.5281/zenodo.5084863"
+		},
+		{
+			"relation": "requires",
+		 	"identifier": "http://doi.org/10.5281/zenodo.5084877"
 		}
 	],
 	"license": "MIT",
