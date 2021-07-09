@@ -70,7 +70,7 @@ This script was used for optimizing the neural network. It can also be ignored f
 
 ## License
 
-This repository is openly published on GitHub, https://github.com/asreview/asreview-cnn-model-switching/ under MIT license. Therefore it is 'Open Access' and thus available for anyone. This repository will remain online for at least 10 years.
+This repository is openly published on GitHub, https://github.com/JTeijema/asreview-study-model-switching under MIT license. Therefore it is 'Open Access' and thus available for anyone. This repository will remain online for at least 10 years.
 
 ## Contact
 
