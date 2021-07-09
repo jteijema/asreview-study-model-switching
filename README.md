@@ -1,4 +1,6 @@
 # ASReview model switching
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5084912.svg)](https://doi.org/10.5281/zenodo.5084912)
+
 Deep learning is often used in text classification tasks for its efficiency and proficiency in modelling nonlinear processes. However, using this type of machine learning takes more time and processing power than using shallow learning algorithms. This study aims to determine if a combination of shallow and deep learning techniques can be used in increasing the classification performance for automated systematic review software. Since deep learning networks excel at finding hard to find connections, this study aims to find situations in which they outperform shallow networks. To find these situations, simulations were run on a prepared dataset using different classifiers, switching from shallow to deep networks. 
 
 This GitHub repository hosts information and code for research on model switching during simulations and active classification. [asreview-plugin-model-switcher](https://github.com/JTeijema/asreview-plugin-model-switcher) contains a plugin, for software called [ASReview](https://github.com/asreview) ![logo](https://raw.githubusercontent.com/asreview/asreview-artwork/e2e6e5ea58a22077b116b9c3d2a15bc3fea585c7/SVGicons/IconELAS/ELASeyes24px24px.svg "ASReview"). 
